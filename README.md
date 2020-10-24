@@ -31,13 +31,11 @@ $ pip3 install -r requirements.txt
 
 [Live Demo](https://learn-for-cause.github.io/farmers-web-portal/)
 
-![](https://github.com/dhrubajyoti89/obj-specifier/blob/master/Readme_images/ss.png)
-
 Feel free to mail us for any doubts/query 
 :email: learnforcause@yahoo.com
 
 ## Contribution
-Feel free to **file a new issue** with a respective title and description here(https://github.com/dhrubajyoti89/obj-specifier/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
+Feel free to **file a new issue** with a respective title and description here(https://github.com/Learn-For-Cause/farmers-portal/issues) repository. If you already found a solution to your problem, **We would love to review your pull request**! 
 Before creating a pull request kindly comment on the issue you would like to work on and wait until you get assigned to it
 
 ## Contributors
