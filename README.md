@@ -35,16 +35,14 @@ Feel free to mail us for any doubts/query
 :email: learnforcause@yahoo.com
 
 ## Contribution
-Feel free to **file a new issue** with a respective title and description here(https://github.com/Learn-For-Cause/farmers-portal/issues) repository. If you already found a solution to your problem, **We would love to review your pull request**! 
+Feel free to **file a new issue** with a respective title and description here(https://github.com/Learn-For-Cause/farmers-web-portal/issues) repository. If you already found a solution to your problem, **We would love to review your pull request**! 
+
 Before creating a pull request kindly comment on the issue you would like to work on and wait until you get assigned to it
 
 ## Contributors
 [Dhrubajyoti Chakraborty](https://github.com/dhrubajyoti89)
 
 Kindly update the above with your credentials when you contribute to this project
-## Credits
-* [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
-* [https://www.kaggle.com](https://www.kaggle.com)
 
 ## License
 MIT © [Learn For Cause](https://github.com/learnforcause/farmers-portal/blob/master/LICENSE)
