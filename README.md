@@ -1,4 +1,4 @@
-<h1 align="center">E-portal For Farmers</h1>
+<h1 align="center">E-portal For Farmers Initial Version</h1>
 
 ##  Objective
 E-portal for farmers to buy or sell crops and other necessary commodities along with information portal with all the latest updated news and blogs in the agricultural sector.
