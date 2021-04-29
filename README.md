@@ -1,4 +1,4 @@
-<h1 align="center">E-portal For Farmers</h1>
+<h1 align="center">E-portal For Farmers Initial Version</h1>
 
 ##  Objective
 E-portal for farmers to buy or sell crops and other necessary commodities along with information portal with all the latest updated news and blogs in the agricultural sector.
@@ -41,6 +41,12 @@ Before creating a pull request kindly comment on the issue you would like to wor
 
 ## Contributors
 [Dhrubajyoti Chakraborty](https://github.com/dhrubajyoti89)
+
+[NM Baibhab](https://github.com/nmbaibhab)
+
+[Chandan Sahoo](https://github.com/chandansahoo)
+
+
 
 Kindly update the above with your credentials when you contribute to this project
 
